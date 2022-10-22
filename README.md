@@ -4,7 +4,7 @@
 
 [Basic description of the task]
 
-The third task is about creating a virtual assistant with the use of IBM Watson Assistant and embed it to the website we made in the second task [details: https://github.com/aalsomali/controlpanel].
+The third task is about creating a virtual assistant with the use of IBM Watson Assistant and embed it to the website we made in the second task [details: https://github.com/A221298/controlpanel].
 
 [Languages used in the project]
 
